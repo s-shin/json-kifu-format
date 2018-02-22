@@ -44,5 +44,10 @@
   },
   "dependencies": {
     "shogi.js": "^1.0.0"
-  }
+  },
+  "files": [
+    "lib",
+    "LICENSE.txt",
+    "package.json"
+  ]
 }
